@@ -1,0 +1,200 @@
+19:50:30.098 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+19:50:32.099 [main] INFO  Steps - User provide valid token
+19:50:32.101 [main] INFO  Steps - addedname_tage with pumpkin in the request body
+19:50:32.102 [main] INFO  Steps - addeddescription with banana2 in the request body
+19:50:32.741 [main] INFO  Steps - Post request sent
+19:50:32.752 [main] INFO  Steps - retrieved id: null
+19:50:32.805 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+19:54:49.026 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+19:54:51.244 [main] INFO  Steps - User provide valid token
+19:54:51.246 [main] INFO  Steps - addedname_tage with pumpkin in the request body
+19:54:51.247 [main] INFO  Steps - addeddescription with banana2 in the request body
+19:54:51.894 [main] INFO  Steps - Post request sent
+19:54:51.906 [main] INFO  Steps - retrieved id: null
+19:54:51.930 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+19:57:06.198 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+19:57:08.213 [main] INFO  Steps - User provide valid token
+19:57:08.214 [main] INFO  Steps - addedname_tage with pumpki1n in the request body
+19:57:08.215 [main] INFO  Steps - addeddescription with banana2 in the request body
+19:57:08.852 [main] INFO  Steps - Post request sent
+19:57:08.863 [main] INFO  Steps - retrieved id: null
+19:57:08.885 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:15:41.021 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:15:43.096 [main] INFO  Steps - User provide valid token
+20:15:43.098 [main] INFO  Steps - addedname_tage with pumpki1n in the request body
+20:15:43.099 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:15:43.741 [main] INFO  Steps - Post request sent
+20:15:43.752 [main] INFO  Steps - retrieved id: null
+20:15:43.779 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:35:21.435 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:35:24.096 [main] INFO  Steps - User provide valid token
+20:35:24.099 [main] INFO  Steps - addedname_tage with pumpki1n in the request body
+20:35:24.100 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:35:24.719 [main] INFO  Steps - Post request sent
+20:35:24.729 [main] INFO  Steps - retrieved id: null
+20:35:24.752 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:35:33.260 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:35:35.172 [main] INFO  Steps - User provide valid token
+20:35:35.174 [main] INFO  Steps - addedname_tage with pumpki1n in the request body
+20:35:35.175 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:35:35.823 [main] INFO  Steps - Post request sent
+20:35:35.832 [main] INFO  Steps - retrieved id: null
+20:35:35.852 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:35:55.750 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:35:57.784 [main] INFO  Steps - User provide valid token
+20:35:57.787 [main] INFO  Steps - addedname_tage with pumpki12n in the request body
+20:35:57.788 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:35:58.455 [main] INFO  Steps - Post request sent
+20:35:58.465 [main] INFO  Steps - retrieved id: null
+20:35:58.483 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:36:47.866 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:36:49.817 [main] INFO  Steps - User provide valid token
+20:36:49.820 [main] INFO  Steps - addedname_tage with pumpki12n in the request body
+20:36:49.821 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:36:50.460 [main] INFO  Steps - Post request sent
+20:36:50.470 [main] INFO  Steps - retrieved id: null
+20:36:50.487 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:39:25.254 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:39:27.341 [main] INFO  Steps - User provide valid token
+20:39:27.343 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+20:39:27.344 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:39:27.983 [main] INFO  Steps - Post request sent
+20:39:27.994 [main] INFO  Steps - retrieved id: null
+20:39:28.016 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:43:32.165 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:43:34.300 [main] INFO  Steps - User provide valid token
+20:43:34.302 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+20:43:34.303 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:46:01.425 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:46:03.301 [main] INFO  Steps - User provide valid token
+20:46:03.303 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+20:46:03.303 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:46:23.767 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:46:25.627 [main] INFO  Steps - User provide valid token
+20:46:25.629 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+20:46:25.630 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:46:26.298 [main] INFO  Steps - Post request sent
+20:46:26.309 [main] INFO  Steps - retrieved id: null
+20:46:26.331 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+19:10:02.771 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+19:10:05.761 [main] INFO  Steps - User provide valid token
+19:10:05.762 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+19:10:05.764 [main] INFO  Steps - addeddescription with banana2 in the request body
+19:10:06.428 [main] INFO  Steps - Post request sent
+19:10:06.443 [main] INFO  Steps - retrieved id: null
+19:10:06.486 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:55:09.619 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:55:12.353 [main] INFO  Steps - User provide valid token
+20:55:12.355 [main] INFO  Steps - addedname_tage with pump4ki12n in the request body
+20:55:12.356 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:55:13.028 [main] INFO  Steps - Post request sent
+20:55:13.039 [main] INFO  Steps - retrieved id: null
+20:55:13.063 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+20:55:39.281 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+20:55:41.704 [main] INFO  Steps - User provide valid token
+20:55:41.707 [main] INFO  Steps - addedname_tage with pumdp4ki12n in the request body
+20:55:41.709 [main] INFO  Steps - addeddescription with banana2 in the request body
+20:55:42.345 [main] INFO  Steps - Post request sent
+20:55:42.355 [main] INFO  Steps - retrieved id: null
+20:55:42.382 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+21:13:04.110 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+21:13:06.272 [main] INFO  Steps - User provide valid token
+21:13:06.273 [main] INFO  Steps - addedname_tage with pumdp4ki12n in the request body
+21:13:06.277 [main] INFO  Steps - addeddescription with banana2 in the request body
+21:13:06.933 [main] INFO  Steps - Post request sent
+21:13:06.946 [main] INFO  Steps - retrieved id: null
+21:13:06.968 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+21:13:58.228 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+21:14:00.922 [main] INFO  Steps - User provide valid token
+21:14:00.924 [main] INFO  Steps - addedname_tage with pumdmvnp4ki12n in the request body
+21:14:00.930 [main] INFO  Steps - addeddescription with banana2 in the request body
+21:14:01.583 [main] INFO  Steps - Post request sent
+21:14:01.599 [main] INFO  Steps - retrieved id: null
+21:14:01.640 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
+21:15:09.148 [main] INFO  Steps - BaseUrl https://backend.cashwise.us
+21:15:11.217 [main] INFO  Steps - User provide valid token
+21:15:11.218 [main] INFO  Steps - addedname_tage with pumdmvnp4ki12n in the request body
+21:15:11.222 [main] INFO  Steps - addeddescription with banana2 in the request body
+21:15:11.966 [main] INFO  Steps - Post request sent
+21:15:11.975 [main] INFO  Steps - retrieved id: null
+21:15:12.007 [main] INFO  Steps - {
+    "message": "Internal server error",
+    "details": [
+        "Access is denied"
+    ]
+}
